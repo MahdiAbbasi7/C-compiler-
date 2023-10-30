@@ -170,8 +170,8 @@ int main(){
 	printf("\n**********************************\n");
 
 	printf("Name : MahdiAbbasi\n");
-	printf("NumberofStudent :1607048\n");
-	printf("Proffesor : E.Musavi\n");
+	printf("NumberofStudent : 992164034\n");
+	printf("Proffesor : E.Mousavi\n");
 	printf("Department : CE\n");
 	printf("University : ShahedUniversity\n");
 	printf("Email : abbasimahdi782@gmail.com\n");
