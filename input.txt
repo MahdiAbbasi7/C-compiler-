@@ -1,0 +1,93 @@
+import trycatch
+import math
+import time
+
+Main:
+{
+	
+	# Variable declaration
+	
+	CHAR p,q,r;
+	INTEGER a,b,c;
+
+	IF(5>2)
+	{
+		15-30;
+	}
+	ELSE
+	{
+		20+9;
+	}
+
+	# Nested IF ELSE
+	IF (3>1)
+	{
+		IF(5>2)
+		{
+			5+2;
+		}
+		ELSE
+		{
+			5-2;
+		}
+
+	}
+	ELSE 
+	{
+		IF(15>10)
+		{
+			25-20;
+		}
+		ELSE
+		{
+			25+20;
+		}
+
+	}
+
+	#Function declaration
+
+	FUNCTION A (10)
+	{
+		c=a+b;
+
+	}
+
+	FUNCTION B (a)
+	{
+
+		2+5;	
+	}
+
+	# For Loop block
+	FOR (2,18,3)
+	{
+		13+13;
+	}
+
+
+ 	#  While Loop Block
+	WHILE (2<5)
+	{
+
+		10+13;
+	}
+
+	# variable assignment
+
+	a=60;
+	b=30;
+	c=0;
+
+	c=a+b;
+	PRINTFUNCTION(c);
+	
+	c=a-b;
+	PRINTFUNCTION(c);
+
+	c=a*b;
+	PRINTFUNCTION(c);
+
+	c=a/b;
+	PRINTFUNCTION(c);
+}
