@@ -1,8 +1,8 @@
-# Using flex/bison for create C compiler
+#Using flex/bison for create C compiler
 
 <h2>Mahdi Abbasi </h2>
 <h3>Professor Ehsan Mousavi </h3>
-<h4>Shahed University - 1402 </h4>
+<h4>Shahed University - 2023 </h4>
 
 
 <h2>Features of the Project</h2>
