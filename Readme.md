@@ -1,6 +1,6 @@
 # Using flex/bison for create C compiler
 
-<h2>Mahdi Abbasi - 992164034 </h2>
+<h2>Mahdi Abbasi </h2>
 <h3>Professor Ehsan Mousavi </h3>
 <h4>Shahed University - 1402 </h4>
 
